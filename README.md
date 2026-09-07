@@ -1,4 +1,5 @@
-# FIFA World Cup Tableau Dashboard
+# [FIFA World Cup Analysis 1930-2026](https://public.tableau.com/views/FIFAWORLDCUPANALYSIS_17876546557110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![alt text](dashboard.png)
 
 Interactive FIFA World Cup Data Analysis and Visualization Dashboard created using Tableau.
 
@@ -19,19 +20,6 @@ The dashboard presents key insights related to:
 - Top-ranked teams
 - FIFA ranking comparison
 
-## Dashboard Preview
-
-### Dashboard 1: FIFA World Cup & Ranking Analysis
-
-![FIFA World Cup Dashboard 1](dashboard-1.png)
-
-### Dashboard 2: FIFA Ranking & Country Analysis
-
-![FIFA World Cup Dashboard 2](dashboard-2.png)
-
-### Dashboard 3: Matches Played by World Cup Year
-
-![FIFA World Cup Dashboard 3](dashboard-3.png)
 
 ## Key KPIs
 
@@ -42,58 +30,10 @@ The dashboard presents key insights related to:
 - World Cup Attendance
 - FIFA Team Rankings
 
-## Analysis Areas
+## Data Source
+[click here](https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup)
 
-### World Cup History
-Analysis of World Cup tournaments, matches, goals, attendance, titles, and runner-up countries.
-
-### FIFA Ranking Analysis
-Comparison and visualization of FIFA team rankings to understand team positions and ranking patterns.
-
-### Country Performance
-Analysis of countries based on World Cup titles, runner-up positions, matches, and tournament performance.
-
-### Tournament Trends
-Year-wise analysis of matches, goals, and attendance to identify historical tournament trends.
-
-## Tools & Technologies
-
-- Tableau
-- Data Visualization
-- Dashboard Design
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- KPI Analysis
-- FIFA World Cup Data Analysis
-- FIFA Ranking Analysis
-- Interactive Data Visualization
-
-## Data Coverage
-
-The dashboard focuses on historical FIFA World Cup data through the 2022 tournament, along with FIFA ranking analysis included in the project dataset.
-
-## Project Goals
-
-- Analyze historical FIFA World Cup performance
-- Compare countries and teams
-- Track tournament-level KPIs
-- Visualize FIFA rankings
-- Identify trends using interactive dashboards
-- Present data-driven insights through Tableau
-
-## Skills Demonstrated
-
-- Tableau Dashboard Development
-- Data Cleaning and Preparation
-- Data Visualization
-- KPI Development
-- Ranking Analysis
-- Trend Analysis
-- Interactive Filters
-- Dashboard Layout and Design
-- Data Storytelling
-
-## Author
+### Author
 
 Tania Fazal
 
